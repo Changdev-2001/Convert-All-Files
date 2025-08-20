@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📂 Convert All Files
 
-## Getting Started
+[![Vercel Deploy](https://img.shields.io/github/deployments/your-username/convert-all-files/Production?label=vercel&logo=vercel)](https://convert-all-types-files.vercel.app/)  
+[![GitHub license](https://img.shields.io/github/license/your-username/convert-all-files)](./LICENSE)  
+[![GitHub issues](https://img.shields.io/github/issues/your-username/convert-all-files)](https://github.com/your-username/convert-all-files/issues)  
+[![GitHub stars](https://img.shields.io/github/stars/your-username/convert-all-files)](https://github.com/your-username/convert-all-files/stargazers)
 
-First, run the development server:
+---
+
+## 🚀 Live Demo  
+🔗 **[Convert All Files](https://convert-all-types-files.vercel.app/)**  
+
+---
+
+## 📖 About  
+
+**Convert All Files** is a powerful web application built with **Next.js + TypeScript** and styled using **TailwindCSS & FlyonUI**.  
+It allows users to easily **convert files between multiple formats**, such as:  
+
+- 📑 PDF ↔️ Word  
+- 🖼️ Image ↔️ Word  
+- 📄 Word ↔️ PDF  
+- … and more formats coming soon!  
+
+Inspired by tools like [iLovePDF](https://www.ilovepdf.com/), but designed to be lightweight, modern, and open-source.  
+
+---
+
+## ⚙️ Tech Stack  
+
+- **Framework**: [Next.js](https://nextjs.org/) (App Router)  
+- **Language**: TypeScript  
+- **Styling**: TailwindCSS + [FlyonUI](https://flyonui.com/)  
+- **Deployment**: [Vercel](https://vercel.com/)  
+- **CI/CD**: GitHub Actions (auto-deploy to Vercel)  
+
+---
+
+## 📦 Getting Started  
+
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/your-username/convert-all-files.git
+cd convert-all-files
